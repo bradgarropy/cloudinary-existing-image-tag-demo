@@ -1,0 +1,18 @@
+# editor
+.vscode
+
+# dependencies
+.cache
+node_modules
+
+# build
+dist
+
+# test
+coverage
+
+# secrets
+.env*
+
+# logs
+debug.log
